@@ -1,3 +1,5 @@
+This is line 1 updated
+This is line 2 updated
 This is line 1 different update
 This is line 2 different update
 This is line 3
